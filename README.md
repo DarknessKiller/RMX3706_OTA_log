@@ -4,7 +4,7 @@
 > 
 > 尝鲜、公测、未公开推送的版本不会收集
 
-更新日志 | MD5 | 下载链接
+更新日志 (Changelogs) | MD5 | 下载链接 (Download)
 -------:|:-------------:|:--------------
 [A.47 (13.1.0.117)](https://gauss-compotacostauto-cn.allawnfs.com/remove-8de444c66a7a78f85dda9cfbc4422464/component-ota/23/10/23/a8f63b3c82424716acdc41e76805a67b.html) | d53fa3998d1db06b4031f93d5654fe0e | [下载直链](https://gauss-otacostmanual-cn.allawnfs.com/remove-8de444c66a7a78f85dda9cfbc4422464/component-ota/23/09/26/14d91e8fd66749588e8cdde57def0001.zip)
 [A.46 (13.1.0.116)](https://gauss-compotacostauto-cn.allawnfs.com/remove-71ae671b3f99b7f84cfa0c7656c68830/component-ota/23/10/08/51b1246e2c5643fdadcb9fa7df50d13a.html) | aa4d5bf825b9de94ff379362e854da4b | [下载直链](https://gauss-otacostmanual-cn.allawnfs.com/remove-71ae671b3f99b7f84cfa0c7656c68830/component-ota/23/09/20/b5708664e4b94f82bef7737037a09a25.zip)
